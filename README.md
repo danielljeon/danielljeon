@@ -7,7 +7,7 @@ About me:
 - 🤖 Current Mechatronics Engineering student at Ontario Tech University.
 - ⌨️ Interested in embedded systems and generally any tough problem that can be solved with code.
 - 🛞 Embedded Controls Design Co-op, Brake Diagnostics Development Team at General Motors.
-- 🏎️ Embedded Software Lead at [Ontario Tech Racing](https://ontariotechracing.ca) for Formula SAE Electric.
+- 🏎️ Embedded Software Lead at [Ontario Tech Racing](https://ontariotechracing.github.io/) for Formula SAE Electric.
 
 Reach out:
 
