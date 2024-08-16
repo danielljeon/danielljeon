@@ -8,6 +8,7 @@
 
 ## Contact
 
+- Website: [danielljeon.github.io](https://danielljeon.github.io/).
 - Email: [daniel.jeon@ontariotechu.net](mailto:daniel.jeon@ontariotechu.net).
 - LinkedIn: [linkedin.com/in/danielljeon](https://linkedin.com/in/danielljeon).
 
