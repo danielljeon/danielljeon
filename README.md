@@ -3,8 +3,9 @@
 ## About
 
 - 🤖 Current Mechatronics Engineering student at Ontario Tech University.
+- ⚙️ Electronics Student Co-op at Multimatic.
 - ⌨️ Interested in embedded systems and software, with a focus on developing
-  efficient firmware for real-time applications and hardware integration.
+  firmware for real-time applications and hardware.
 
 ## Contact
 
@@ -28,7 +29,7 @@
 - 📐 Ontario
   Tech [Engineering Outreach](https://engineering.ontariotechu.ca/outreach/)
   STEM Program Instructor.
-- ⚙️ VP Academic Affairs at
+- ✏️ VP Academic Affairs at
   the [Ontario Tech Engineering Students' Society](https://otengsoc.ca).
 
 </details>
