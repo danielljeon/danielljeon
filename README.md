@@ -2,10 +2,9 @@
 
 ## About
 
-- 🤖 Current Mechatronics Engineering student at Ontario Tech University.
-- ⚙️ Electronics Student Co-op at Multimatic.
+- 🤖 Mechatronics Engineering student at Ontario Tech University.
 - ⌨️ Interested in embedded systems and software, with a focus on developing
-  firmware for real-time applications and hardware.
+  products for real-time applications.
 
 ## Contact
 
@@ -15,21 +14,17 @@
 
 ---
 
-<details markdown="1">
-  <summary>Past experiences:</summary>
+## Past Experiences:
 
-- 🛞 Embedded Controls Design Co-op, Brake Diagnostics Development Team at
-  General Motors.
-- 🏎️ Embedded Software Lead
-  at [Ontario Tech Racing](https://ontariotechracing.github.io/) for Formula SAE
-  Electric.
-- 📅 Co-Founder and Lead backend developer
-  at [EZCampus](https://github.com/EZCampusDevs/), an open-source automation
+- Electronic Systems Co-op at **Multimatic**.
+- Brake Diagnostics Development Co-op at **General Motors**.
+- Formula SAE Electric, Embedded Software Lead
+  for [**Ontario Tech Racing**](https://ontariotechracing.github.io/).
+- Co-Founder and Lead Backend Developer
+  at [**EZCampus**](https://github.com/EZCampusDevs/), an open-source automation
   startup for universities and colleges.
-- 📐 Ontario
-  Tech [Engineering Outreach](https://engineering.ontariotechu.ca/outreach/)
+- Ontario
+  Tech [**Engineering Outreach**](https://engineering.ontariotechu.ca/outreach/)
   STEM Program Instructor.
-- ✏️ VP Academic Affairs at
-  the [Ontario Tech Engineering Students' Society](https://otengsoc.ca).
-
-</details>
+- VP Academic Affairs at
+  the [**Ontario Tech Engineering Students' Society**](https://otengsoc.ca).
