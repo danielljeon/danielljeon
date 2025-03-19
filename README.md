@@ -14,7 +14,7 @@
 
 ---
 
-## Past Experiences:
+## Past Experience
 
 - Electronic Systems Co-op at **Multimatic**.
 - Brake Diagnostics Development Co-op at **General Motors**.
