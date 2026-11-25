@@ -3,7 +3,7 @@
 Currently building [**ScalpelSpace**](https://scalpelspace.com) and other random
 cool stuff via [**BorkdLabs**](https://www.youtube.com/@borkdlabs).
 
-Also currently working in Industrial Automation.
+Also currently working as a Software Developer at **General Motors**.
 
 Check out older projects of mine
 here: [danielljeon.github.io](https://danielljeon.github.io/).
@@ -18,6 +18,7 @@ here: [danielljeon.github.io](https://danielljeon.github.io/).
     - Department lead positions
       for [**Formula SAE Electric**](https://www.ontariotechracing.ca/)
       and [**Rocketry**](https://www.ontariotechrocketry.ca/).
+- Mechatronics at **Jet Automation**.
 - Electronic Systems (co-op) at **Multimatic**.
 - Embedded Controls, Brake Diagnostics (co-op) at **General Motors**.
 - Co-Founder of [**EZCampus**](https://github.com/EZCampusDevs/), an open-source
